@@ -1,5 +1,5 @@
-<img alt="stats" src="https://github-readme-stats.vercel.app/api?username=coding-cactus&count_private=true&theme=chartreuse-dark&show_icons=true&include_all_commits=true" width=60%>
-<img alt="langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coding-cactus&layout=compact&theme=chartreuse-dark">
+![stats](https://github-readme-stats.vercel.app/api?username=coding-cactus&count_private=true&theme=chartreuse-dark&show_icons=true&include_all_commits=true)
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coding-cactus&layout=compact&theme=chartreuse-dark)
 
 <!--
 **Coding-Cactus/Coding-Cactus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
