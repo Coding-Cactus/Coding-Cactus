@@ -10,5 +10,7 @@ As you have hopefully worked out by now, I am CodingCactus and I program things!
 ## Other
 Of course, cacti are quite a large interest of mine, but that is not all! I also find maths, physics, and electronics (pretty much anyting with numbers) super interesting and fun. Although that's pretty much it 😂.
 
+![Profile views](https://gpvc.arturio.dev/Coding-Cactus)
+
 ![stats](https://github-readme-stats.vercel.app/api?username=coding-cactus&count_private=true&theme=chartreuse-dark&show_icons=true&include_all_commits=true)
 ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coding-cactus&layout=compact&theme=chartreuse-dark)
