@@ -1,7 +1,7 @@
 # Hi👋
 
 ## Info
-<img alt="codingCactus" src="https://codingcactus.codes/theCactusGif.gif" width=200px>
+<img alt="codingCactus" src="https://codingcactus.codes/logo.gif" width=200px>
 
 #### That's me ^^
 
