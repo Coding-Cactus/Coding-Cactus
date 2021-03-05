@@ -10,10 +10,7 @@ As you have hopefully worked out by now, I am CodingCactus and I program things!
 ## Other
 Of course, cacti are quite a large interest of mine, but that is not all! I also find maths, physics, and electronics (pretty much anything with numbers) super interesting and fun. Although that's pretty much it 😂.
 
- <div style="display:flex; flex-direction: row;">
-  <img src="https://github-readme-stats.vercel.app/api?username=coding-cactus&count_private=true&theme=chartreuse-dark&show_icons=true&include_all_commits=true" alt="stats" />
-  <div style="display: flex; flex-direction: column;">
-    <img style="display: block; height: 30px; width: 168px;" src="https://gpvc.arturio.dev/Coding-Cactus" alt="profile views" />
-    <img style="display: block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coding-cactus&layout=compact&theme=chartreuse-dark" alt="langs" />
-  </div>
-</div>
+![Profile views](https://gpvc.arturio.dev/Coding-Cactus)
+
+![stats](https://github-readme-stats.vercel.app/api?username=coding-cactus&count_private=true&theme=chartreuse-dark&show_icons=true&include_all_commits=true)
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coding-cactus&layout=compact&theme=chartreuse-dark)
