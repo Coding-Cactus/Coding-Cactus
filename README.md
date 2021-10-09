@@ -6,7 +6,7 @@
 + 👨‍💻 Makes effective backends with Ruby and Python
 + ✨ Makes pretty sites with HTML/CSS/JS
 + 🔨 Moderates [Replit](https://replit.com)
-+ 🤓 Loves maths and generally things involving numbers
++ ✏️Loves maths and generally things involving numbers
 + 🏓 Likes playing table tennis and running
 
 # 📚 What I Know
