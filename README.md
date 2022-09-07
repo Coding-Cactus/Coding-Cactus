@@ -14,7 +14,7 @@
 - 🥈 2nd place [Replit Summer Hackathon 2021](https://github.com/Coding-Cactus/cactus-carer)
 
 # 🛠️ What I've made
-- [Bow](https://github.com/Bow/Bow) - Statically typed interpretted language (W.I.P.)
+- [Bow](https://github.com/BowLang/Bow) - Statically typed interpretted language (W.I.P.)
 - [Replit Classrooms](https://github.com/Coding-Cactus/classrooms) - Replacement for depreciated Replit Classrooms
 - [Slidey](https://github.com/Coding-Cactus/slidey) - A game where you slide tiles to recreate an image
 - [ReplTalk GQL Wrapper](https://github.com/Coding-Cactus/repltalk) - Ruby wrapper for Replit's GQL API
