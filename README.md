@@ -21,7 +21,7 @@
 - [Slidey](https://github.com/Coding-Cactus/slidey) - A game where you slide tiles to recreate an image
 - [Cactus Bot](https://github.com/Coding-Cactus/Cactus-Bot) - A cactus themed discord currency bot
 
-> Those are only a few of my projects, check out [codingcactus.codes](https://codingcactus.codes) for more and descriptions regarding each project
+> Those are only a few of my projects, check out [codingcactus.codes](https://codingcactus.codes) for more projects and descriptions of them
 
 # 📚 What I Know
 
