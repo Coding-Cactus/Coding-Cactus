@@ -2,12 +2,12 @@
 
 
 # 📝 About Me
-+ 🌵 Spiky green plant obsessed programmer
-+ 👨‍💻 Makes effective backends with Ruby and Python
-+ ✨ Makes pretty sites with HTML/CSS/JS
-+ 🔨 Moderates [Replit](https://replit.com)
-+ ✏️Loves maths and generally things involving numbers
-+ 🏓 Likes playing table tennis and running
++ 🌵 Randomly obssessed with cacti
++ 👨‍💻 Create effective backends with Ruby and Python
++ ✨ Make pretty sites with HTML/CSS/JS
++ 🔨 Moderate [Replit](https://replit.com)
++ ✏️ Love maths and generally things involving numbers
++ 🏓 Like playing table tennis and running
 
 # 🏆 Competitions
 - 🥇 1st place [Replit Template Jam 2022](https://replit.com/@CodingCactus/Codemirror-6)
@@ -15,11 +15,11 @@
 
 # 🛠️ What I've made
 - [Bow](https://github.com/BowLang/Bow) - Statically typed interpretted language (W.I.P.)
+- [Flaptus](https://github.com/Coding-Cactus/Flaptus) - A cactus themed Flappy Bird recreation
+- [ReplTalk GQL Wrapper](https://github.com/Coding-Cactus/repltalk) - Ruby wrapper for Replit's GQL API
 - [Replit Classrooms](https://github.com/Coding-Cactus/classrooms) - Replacement for depreciated Replit Classrooms
 - [Slidey](https://github.com/Coding-Cactus/slidey) - A game where you slide tiles to recreate an image
-- [ReplTalk GQL Wrapper](https://github.com/Coding-Cactus/repltalk) - Ruby wrapper for Replit's GQL API
 - [Cactus Bot](https://github.com/Coding-Cactus/Cactus-Bot) - A cactus themed discord currency bot
-- [Flaptus](https://github.com/Coding-Cactus/Flaptus) - A cactus themed Flappy Bird recreation
 
 > Those are only a few of my projects, check out [codingcactus.codes](https://codingcactus.codes) for more and descriptions regarding each project
 
