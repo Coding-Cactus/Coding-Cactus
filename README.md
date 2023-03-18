@@ -17,7 +17,7 @@
 - [Bow](https://github.com/BowLang/Bow) - Statically typed interpretted language (W.I.P.)
 - [Flaptus](https://github.com/Coding-Cactus/Flaptus) - A cactus themed Flappy Bird recreation
 - [ReplTalk GQL Wrapper](https://github.com/Coding-Cactus/repltalk) - Ruby wrapper for Replit's GQL API
-- [Replit Classrooms](https://github.com/Coding-Cactus/classrooms) - Replacement for depreciated Replit Classrooms
+- [Replit Classrooms](https://github.com/Coding-Cactus/classrooms) - Replacement for deprecated Replit Classrooms
 - [Slidey](https://github.com/Coding-Cactus/slidey) - A game where you slide tiles to recreate an image
 - [Cactus Bot](https://github.com/Coding-Cactus/Cactus-Bot) - A cactus themed discord currency bot
 
